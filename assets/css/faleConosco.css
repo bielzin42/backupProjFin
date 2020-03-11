@@ -1,0 +1,16 @@
+ /* body {
+    background-color: rgba(253, 219, 253, 0.863);
+} */
+
+        form {
+            width: 30em;
+            height: 30em;
+            margin: 0 auto;
+            padding-top: 5em;
+        }
+
+        h1{
+            text-align: center;
+        }
+
+  
